@@ -1,0 +1,6 @@
+{"FirstName":"Pavan","LastName":"Mantha","Age":36,"Place":"Hyderabad","Salary":273567,"Department":"SPS","Technologies":["java","spring boot","data science","react","node","Terraform"]}
+{"FirstName":"Arun","LastName":"Boppudi","Age":36,"Place":"Guntur","Salary":303567,"Department":"Aero","Technologies":["java","spring boot","cloud","react","node","druid","kafka"]}
+{"FirstName":"Ravi","LastName":"Vadlamani","Age":26,"Place":"Visakapatnam","Salary":213567,"Department":"Aero","Technologies":["express","data structures","react"]}
+{"FirstName":"Mahender","LastName":"M","Age":21,"Place":"Hyderabad","Salary":153567,"Department":"Aero","Technologies":["java","spring boot","express","react","node"]}
+{"FirstName":"Manoj","LastName":"Manoj","Age":21,"Place":"Guntur","Salary":183567,"Department":"Aero","Technologies":["express","react"]}
+{"FirstName":"Manoj","LastName":"Velecheti","Age":21,"Place":"Visakapatnam","Salary":223567,"Department":"Aero","Technologies":["java","spring boot","express","react"]}
